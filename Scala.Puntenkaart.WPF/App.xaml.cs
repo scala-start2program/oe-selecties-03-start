@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Prb.Puntenkaart.WPF
+namespace Scala.Puntenkaart.WPF
 {
     /// <summary>
     /// Interaction logic for App.xaml
