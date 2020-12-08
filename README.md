@@ -35,5 +35,5 @@ Het verhoogt de kwaliteit van je programma wanneer je er voor zorgt dat wanneer 
   
 >  private void TxtScience_GotFocus(object sender, RoutedEventArgs e)  
 >  {  
->    txtScience.SelectAll();  
+>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;txtScience.SelectAll();  
 >  }  
